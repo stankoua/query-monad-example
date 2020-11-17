@@ -1,9 +1,9 @@
 import sbt._
 
 object Dependencies {
-  lazy val acolyte = "org.eu.acolyte" %% "jdbc-scala" % "1.0.54"
+  lazy val acolyte = "org.eu.acolyte" %% "jdbc-scala" % "1.0.57"
 
-  lazy val acolytePlay = "org.eu.acolyte" %% "play-jdbc" % "1.0.54"
+  lazy val acolytePlay = "org.eu.acolyte" %% "play-jdbc" % "1.0.57"
 
   lazy val anorm = "org.playframework.anorm" %% "anorm" % "2.6.5"
 
