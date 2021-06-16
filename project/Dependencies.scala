@@ -13,7 +13,7 @@ object Dependencies {
 
   lazy val postgres = "org.postgresql" % "postgresql" % "42.2.10"
 
-  lazy val scalaLogging = "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+  lazy val scalaLogging = "com.typesafe.scala-logging" %% "scala-logging" % "3.9.4"
 
   lazy val specs2 = "org.specs2" %% "specs2-core" % "4.9.1"
 
